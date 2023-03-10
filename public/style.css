@@ -1,4 +1,4 @@
-*{
+/* *{
   box-sizing: border-box;
 }
 body{
@@ -22,22 +22,9 @@ body{
 }
 .heading{
   margin-right: auto;
-  letter-spacing: -5%;
   font-size: 22.5px;
   color: #61DAFB;
 }
 .semi-heading{
   font-size: 16px;
-}
-.main-heading{
-  margin-top: auto;
-  margin: 0;
-  padding: 57px 27px;
-}
-.main-content{
-  padding-left: 76px;
-}
-.facts{
-  color: #61DAFB;
-  padding-block: 9px;
-}
+} */
