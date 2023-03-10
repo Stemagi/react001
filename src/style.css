@@ -3,6 +3,8 @@
 }
 body{
   margin: 0;
+  font-family: Inter, sans-serif;
+  font-weight: 700;
 }
 .navbar{
   width: 550px;
@@ -35,9 +37,15 @@ body{
   padding: 57px 27px;
 }
 .main-content{
+  font-size: 16px;
+  max-width: 390px;
   padding-left: 76px;
 }
 .facts{
-  color: #61DAFB;
+  color: #fff;
   padding-block: 9px;
+}
+::marker{
+  font-size: 2rem;
+  color: #61DAFB;
 }
