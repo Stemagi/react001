@@ -14,8 +14,14 @@ body{
   padding: 31px 25px;
   background-color: #21222A;
 }
+.image{
+  width: 30px;
+}
 .main{
-  background-color: #33373E;
+  background-color: #282D35;
+  background-image: url(./../public/react-icon-large.png);
+  background-repeat: no-repeat;
+  background-position: right;
   width: 550px;
   height: 459px;
 }
