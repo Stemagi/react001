@@ -35,15 +35,22 @@ body{
   margin-top: auto;
   margin: 0;
   padding: 57px 27px;
+  padding-bottom: 0px;
+  letter-spacing: -0.05em;
 }
 .main-content{
+  margin-top: 46 px;
+  padding: 0;
   font-size: 16px;
+  font-weight: 400;
+  max-height: 190px;
   max-width: 390px;
   padding-left: 76px;
+
 }
 .facts{
   color: #fff;
-  padding-block: 9px;
+  padding-block: 5px;
 }
 ::marker{
   font-size: 2rem;
